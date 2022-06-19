@@ -6,7 +6,7 @@ Prices in USD
 [Today's price](https://justodaya.github.io/noether/today)
 
 # ETH is currently worth:
-## $977.37 (per 1 eth)
+## $952.65 (per 1 eth)
 
 ### Within the past 5 days
 ETH has lost USD$334.14
